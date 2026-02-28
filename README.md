@@ -11,7 +11,7 @@ El sistema:
 3. Evalúa la expresión postfix
 4. Muestra el resultado en consola
 
-### 🏗 Estructura del Proyecto
+### Estructura del Proyecto
 
 #### ADT Pila
 - Stack<T> (Interfaz)
@@ -56,5 +56,11 @@ Se incluyen pruebas con JUnit para:
 - José Leonel Hernández Suchini 25041
 
 
-### 🔗 Repositorio
+###  Repositorio
 [https://github.com/Leo141592/Hoja-de-trabajo-4]
+
+##  Diagrama UML
+
+El diagrama de clases se encuentra en el archivo:
+
+UML_Hoja4.pdf
